@@ -1,5 +1,5 @@
 # VideolezioniDownloader 📚⬇️
-Simple script that speeds up the process of downloading video from SharePoint.
+Simple script that speeds up the process of downloading video from Videomanifest link.
 
 ## Dependencies
 FFMPEG, pbpaste
